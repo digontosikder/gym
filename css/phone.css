@@ -201,6 +201,24 @@
         flex-direction: column;
         gap: 20px;
     }
+    /* footer section start */
+    .footers{
+        width: 90%;
+    }
+    .footer-container{
+        flex-direction: column;
+        text-align: left;
+        
+    }
+    .footer-second-div{
+        margin-top: 30px;
+    }
+    .footer-third-div{
+        margin-top: 20px;
+    }
+    .footer-fast-div-discription{
+        width: 317px;
+    }
     
     
 }
