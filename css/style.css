@@ -1,3 +1,18 @@
+@import url('https://fonts.cdnfonts.com/css/miama');
+
+.miama-font {
+    font-family: 'Miama', sans-serif;
+    position: absolute;
+    font-weight: 500;
+    font-size: 150px;
+    top: 310px;
+
+}
+.banner > h1{
+    position: relative;
+}
+
+
 * {
     margin: 0;
 }
@@ -658,18 +673,20 @@
 /* Main section end */
 
 /* footer section start */
-.footer{
+.footer {
     margin-top: 88px;
-    
-    background-color:#FFFFFF1A ;
+
+    background-color: #FFFFFF1A;
 }
-.footers{
-    
+
+.footers {
+
     padding-top: 66px;
     width: 80%;
     margin: auto;
-    
+
 }
+
 .footer-container {
     display: flex;
     justify-content: space-between;
@@ -693,35 +710,41 @@
 
 }
 
-.footer-second-div-title,.footer-third-div-title {
+.footer-second-div-title,
+.footer-third-div-title {
     color: #FFFFFF;
     font-size: 32px;
     font-weight: 700;
     line-height: 120%;
 }
 
-.footer-second-div-sub-title,.footer-third-div-sub-title {
+.footer-second-div-sub-title,
+.footer-third-div-sub-title {
     color: #FFFFFF80;
     font-size: 23px;
     font-weight: 400;
     line-height: 120%;
     margin-top: 20px;
 }
-.foo{
-    margin-top:40px ;
+
+.foo {
+    margin-top: 40px;
 }
-.hrigontal-line{
+
+.hrigontal-line {
     margin-top: 80px;
-    
-    
-    
+
+
+
 }
-.copyright-div{
+
+.copyright-div {
     text-align: center;
     padding: 36px;
 }
-.copyright-discription{
-    color:#FFFFFF80;
+
+.copyright-discription {
+    color: #FFFFFF80;
 }
 
 /* footer section end */
